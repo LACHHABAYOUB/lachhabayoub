@@ -1,0 +1,35 @@
+
+
+div.body {
+    padding: 25px;
+}
+
+div.header {
+    background-image: url(pictures/cover.jpg);
+    background-repeat: no-repeat;
+    height: 160px;
+    border: 2px solid black;
+    padding: 25px;
+    width: fit-content;
+    background-size: auto;
+    
+}
+
+
+
+.footer {
+    height: 100px;
+    text-align: right;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+    font-size: 11pt;
+    background: #778899;
+    justify-content: space-between;
+}
+
+.footer>div {
+    padding: 15px;
+}
