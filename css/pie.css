@@ -1,0 +1,107 @@
+html {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    padding-bottom: 150px;
+    min-height: 85%;
+    font-size: 18pt;
+    background: #fff;
+    color: #404040;
+    background-image: url(../images/silverware.jpg);
+}
+
+body a {
+    color: #A4A400;
+}
+
+body ul {
+    list-style-image: url(../images/pie_icon.gif);
+}
+
+.header_panel {
+    background: #F0F0F0;
+    color: #A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Aria, sans-serif;
+    font-size: 22pt;
+    font-weight: 700;
+    text-decoration: underline;
+    padding: 6px;
+    padding-left: 0;
+}
+
+.header_panel.top_header {
+    text-align: center;
+}
+
+.content {
+    font-size: 11pt;
+    font-family: Georgia, Garamond;
+    display: flex;
+    flex-direction: column;
+}
+
+.content:not(:last-child) {
+    padding-bottom: 10px;
+    border-bottom: solid 1px;
+    margin-bottom: 10px;
+}
+
+.content .abbreviation {
+    text-decoration: underline;
+}
+
+.content .strike {
+    text-decoration: line-through;
+}
+
+.content .image {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.content .lines {
+    display: flex;
+    flex-direction: column;
+}
+
+.content span.bold {
+    font-weight: 700;
+}
+
+.preformatted {
+    font-family: monospace;
+    white-space: pre;
+}
+
+.content.link a {
+    text-align: left;
+    width: 30%;
+    padding-bottom: 10px;
+}
+
+.content.link {
+    text-align: right;
+    padding-top: 10px;
+}
+
+.content .user_comment {
+    margin: 15px 15px 0 25px;
+    background: #FFFFA8;
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+}
+
+.content .user_comment .user_name {
+    padding-top: 10px;
+}
+
+.footer {
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 11pt;
+}
