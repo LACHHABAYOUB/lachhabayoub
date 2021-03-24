@@ -27,14 +27,6 @@ body dt {
     color: #D2691E;
 }
 
-body p::first-letter {
-    font-size: 150%;
-    float: left;
-    line-height: 80%;
-    width: 0.7em;
-    padding: 6px;
-}
-
 body>div:not(.mood_section) {
     margin-left: 15px;
     margin-right: 15px;
