@@ -24,7 +24,7 @@ body a:hover {
 }
 
 body dt {
-    color: #D2691E;
+    color: #aa3511;
 }
 
 body>div:not(.mood_section) {
@@ -54,11 +54,11 @@ body div.header_section {
 .menus .menu_item:hover {
     opacity: .8;
     text-decoration: none;
-    background: #20B2AA;
+    background: #18706c;
 }
 
 .special {
-    color: #20B2AA;
+    color: #18706c;
     font-weight: 500;
 }
 
