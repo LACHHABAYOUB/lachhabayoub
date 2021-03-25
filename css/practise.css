@@ -1,0 +1,241 @@
+/* General */
+
+body {
+    margin: 0;
+}
+
+body .content,
+body .title {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+body .title {
+    color: #2E8B57;
+}
+
+body .exercise {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+body .exercise:nth-child(even) {
+    background: #F0F8FF;
+    overflow: hidden;
+}
+
+
+/* Float boxes */
+
+#outer {
+    border: 2px dashed black;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+    float: left;
+}
+
+.break {
+    clear: left;
+}
+
+
+/* Menus  */
+
+ul.menus {
+    background: red;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.menus li {
+    background: #fff;
+    margin: 10px 5px 10px 5px;
+    padding: 10px;
+    font-size: 25px;
+    border: 1px solid #000;
+    font-weight: 700;
+}
+
+
+/* Layout */
+
+.exercise.layout_exercise .content {
+    background: lightgrey;
+    width: 500px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.exercise.layout_exercise .content h1 {
+    background: yellow;
+}
+
+#column1,
+#column2 {
+    background-color: lightblue;
+    float: right;
+    margin-left: 10px;
+    width: 100px;
+}
+
+
+/* More float exercise*/
+
+.a,
+.b {
+    width: 100px;
+    height: 100px;
+    font: 30pt bold Helvetica, Arial, sans-serif;
+    line-height: 100px;
+    text-align: center;
+}
+
+.a {
+    background-color: lightblue;
+}
+
+.b {
+    background-color: pink;
+}
+
+.c {
+    background-color: lightgray;
+}
+
+.more_float_exercise .app_no {
+    padding: 3px 10px;
+    border-radius: 10px;
+    background: #FF4500;
+    color: #fff;
+}
+
+.appearance {
+    width: 350px;
+    margin: 0 10px 20px 10px;
+    background: #fff;
+}
+
+#appearance1 .a {
+    float: left;
+}
+
+#appearance1 .b {
+    float: right;
+}
+
+#appearance2 .a {
+    float: left;
+}
+
+#appearance2 .b {
+    float: right;
+    clear: left;
+}
+
+#appearance3 .a {
+    float: left;
+}
+
+#appearance3 .b {
+    float: right;
+    clear: left;
+}
+
+#appearance3 .c {
+    clear: left;
+    text-align: right;
+}
+
+#appearance4 .a {
+    float: left;
+}
+
+#appearance4 .b {
+    float: right;
+    clear: left;
+}
+
+#appearance4 .c {
+    overflow: auto;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#appearance5 {
+    overflow: auto;
+}
+
+#appearance5 .a {
+    float: right;
+}
+
+#appearance5 .b {
+    float: left;
+}
+
+#appearance5 .c {
+    text-align: center;
+    float: left;
+    width: 100px;
+}
+
+#appearance6 {
+    overflow: auto;
+}
+
+#appearance6 .a {
+    float: right;
+}
+
+#appearance6 .b {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+#appearance6 .c {
+    clear: right;
+    margin-right: 100px;
+}
+
+#appearance7 .a {
+    float: left;
+}
+
+#appearance7 .b {
+    float: left;
+}
+
+#appearance7 .c {
+    overflow: hidden;
+}
+
+#appearance8 .b {
+    position: absolute;
+    background: none;
+}
+
+#appearance9 .a {
+    float: left;
+    margin-bottom: 100px;
+}
+
+#appearance9 .b {
+    float: left;
+}
+
+#appearance9 .c {
+    clear: left;
+}
