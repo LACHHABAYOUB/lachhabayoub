@@ -23,15 +23,6 @@ body a:hover {
     text-decoration: underline;
 }
 
-body p::first-letter {
-    font-size: 150%;
-    float: left;
-    line-height: 80%;
-    width: 0.7em;
-    padding: 6px;
-}
-
-
 body dt {
     color: #aa3511;
 }

@@ -26,6 +26,17 @@ body .exercise:nth-child(even) {
 }
 
 
+.topmenu {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    background: #adafb1;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 0;
+    font-size: 24px;
+    margin-left: 12px;
+}
 /* Float boxes */
 
 #outer {
