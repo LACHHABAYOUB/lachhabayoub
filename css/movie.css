@@ -1,0 +1,153 @@
+html {
+    font-size: 8pt;
+    font-family: Verdana, Tahoma;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../images/background.png);
+}
+
+#banner {
+    text-align: center;
+    height: 50px;
+    background: url(../images/bannerbg.png);
+}
+
+#movie-name {
+    font-size: 24pt;
+    font-weight: 700;
+    font-family: Tahoma, Verdana;
+    text-align: center;
+    text-shadow: #999999 3px 3px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container {
+    box-shadow: 0 0 0 4px grey;
+    border-radius: 20px;
+    width: 800px;
+}
+
+.main-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-footer {
+    background: #A2B964;
+    padding: 5px 0;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#certificates {
+    opacity: .5;
+    float: right;
+    margin-top: -50px;
+}
+
+#left-container {
+    width: 550px;
+    height: 1000px;
+}
+
+#left-container .top {
+    color: red;
+    font-weight: 700;
+    font-size: 48pt;
+    display: flex;
+    align-items: center;
+    background: url(../images/rbg.png);
+}
+
+#left-container .top,
+#left-container .top img {
+    height: 83px;
+    border-top-left-radius: 20px;
+}
+
+#left-container .review {
+    width: 47%;
+}
+
+.review {
+    margin-bottom: 20pt;
+}
+
+.review-text {
+    font-weight: 700;
+    font-size: 8pt;
+    background: #E8DC9B;
+    border: solid 2px gray;
+    border-radius: 10px;
+    padding: 8px;
+    overflow: hidden;
+}
+
+.review-text img {
+    margin-right: 5px;
+    float: left;
+}
+
+.reviewer {
+    display: flex;
+    margin-top: 10px;
+}
+
+.reviewer img {
+    margin-right: 5px;
+}
+
+.publication {
+    font-style: italic;
+}
+
+#left-container .bottom {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    height: calc(100% - 83px);
+    align-content: space-evenly;
+}
+
+#right-container {
+    width: 250px;
+    background: #A2B964;
+}
+
+#right-container,
+#right-container .top,
+#right-container .top img {
+    border-top-right-radius: 20px;
+}
+
+#right-container .bottom {
+    padding: 0 10pt 10pt 10pt;
+    font-size: 8pt;
+    font-family: Arial;
+}
+
+dd {
+    margin-bottom: 10pt;
+}
+
+dt {
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
