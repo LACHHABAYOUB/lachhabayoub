@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MIU Golden Dorm Market</title>
+    <script src="lib/bootstrap-4.4.1-dist/js/jquery-slim.min.js"></script>
+    <script src="lib/bootstrap-4.4.1-dist/js/popper.min.js"></script>
+    <script src="lib/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="lib/bootstrap-4.4.1-dist/css/bootstrap.min.css" />
+    <script src="js/login.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <div class="nav bg-primary text-white">
+            <div class="nav-item">
+                <div class="nav-link active">MIU Golden Dorm Market ::: SRM System</div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-5 d-flex justify-content-center">
+        <div class="content w-50">
+            <form action="#" onsubmit="handleSubmit()" id="loginForm">
+                <div class="form-group">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+                        else.</small>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password"
+                        pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[a-zA-Z\d]{10,}$" minlength="10" required>
+                </div>
+                <div class="form-group">
+                    <label for="webUrl">Website URL</label>
+                    <input type="text" class="form-control" id="webUrl" pattern="^https?:\/\/[a-z]+\..+$" required>
+                </div>
+                <div class="form-group form-check">
+                    <input type="checkbox" class="form-check-input" id="checkMeOut">
+                    <label class="form-check-label" for="checkMeOut">Check me out</label>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
