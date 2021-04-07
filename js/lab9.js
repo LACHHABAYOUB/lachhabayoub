@@ -44,3 +44,9 @@ function Person(name, dateOfBirth) {
     }
 }
 
+// Test
+(function test() {
+    createAndPrintJohn();
+    createEmployee();
+    new Person("Peter", "1985-11-10").toString();
+})();
