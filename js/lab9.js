@@ -44,6 +44,7 @@ function Person(name, dateOfBirth) {
     }
 }
 
+
 // Test
 (function test() {
     createAndPrintJohn();
