@@ -9,20 +9,20 @@ export class person{
     }
 
     get name(){
-        return this._name;
+        return this.name;
     }
 
     set name(value){
-         this._name=value;
+         this.name=value;
     }
 
 
     get dateofbirth(){
-        return this._dateofbirth;
+        return this.dateofbirth;
     }
 
-    set name(value){
-         this._dateofbirth=value;
+    set dateofbirth(value){
+         this.dateofbirth=value;
     }
 
     toString(){
