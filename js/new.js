@@ -1,7 +1,6 @@
 'use strict';
 
 function handleAddProduct() {
-    console.log("Lab 04  ");
 
     let form = document.getElementById("productForm");
     let productNumber = form.elements['productNumber'].value;
@@ -19,8 +18,6 @@ function handleAddProduct() {
         + "\nDate: " + date;
     
     //alert(data)    
-
-        console.log("\n\n\nLab 09 ");
 
     let prodNumber = $('#productNumber').val();
     let prodName = $('#productName').val();

@@ -29,11 +29,9 @@ SavingBank.addEventListener('change', function (event) {
 event.preventDefault();
 
 const tr = tblAccounts.getElementsByTagName("tr");
-
 for (let i = 0; i < tr.length; i++) {
 
   let td = tr[i].getElementsByTagName("td")[3];
-  console.log(td.textContent)
 
     if (this.checked && td.textContent === "Checking" ) {
         tr[i].style.display = "none";
