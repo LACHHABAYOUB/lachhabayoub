@@ -40,7 +40,7 @@ const count = (function () {
 // Question 7:
 /**
  * The free variable is counter. 
- * A free variable is the variable that are referred to by a function that is not one of its parameters or local variables;
+ * A free variable is the variable that are referred to by a function that is not one of its parameters of the functions;
  */
 
 // Question 8:
