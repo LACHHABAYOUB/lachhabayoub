@@ -2,9 +2,6 @@
 
 <h3 align="center">Senior Software Engineer | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/LACHHABAYOUB/lachhabayoub/blob/main/animation.gif" width="250" height="250">
-</p>
 
 <p align="center">
   <strong>
