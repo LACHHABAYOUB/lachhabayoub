@@ -52,4 +52,3 @@ Worked in diverse environments across the **United States**, **Morocco**, **Braz
 
 ---
 
-Feel free to customize this README further to reflect your personal style or to highlight specific projects and achievements. Let me know if there's anything you'd like to add or change!
