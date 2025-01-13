@@ -5,7 +5,8 @@
 
 <p align="center">
   <strong>
-    Senior Software Engineer with over 9 years of comprehensive experience in full-stack development. Specializing in both front-end and back-end technologies, I have a proven track record in designing and implementing high-performance, scalable software solutions that enhance user experience and operational efficiency.
+ I am a Senior Software Engineer with over 5 years of experience in full-stack development, specializing in designing and implementing high-performance, scalable software solutions that enhance user experience and operational efficiency.
+efficiency.
   </strong>
 </p>
 
