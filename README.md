@@ -26,16 +26,20 @@
 
 - **The Home Depot** *(Mar 2023 – Present)*
   - Leading full-stack development efforts on critical applications.
-  - Actively contributing to the Return and Store Checkouts Team projects.
-  - Optimizing applications for performance and user experience using HTMX and Quarkus.
+  - Designed and implemented a system to track and verify software versions across all Home Depot stores, reducing deployment times by 40%.
+  - Optimized applications for performance and user experience using **HTMX** and **Quarkus**.
+  - Developed scalable backend services with **Java**, **Spring Boot**, and **Kafka**, improving event-driven communication.
+  - Built and maintained CI/CD pipelines using **Jenkins**, **Docker**, and **Kubernetes**, reducing deployment times by 30%.
 
-- **Creospan Inc.** *(Sep 2021 – May 2022)*
-  - Developed and maintained RESTful APIs and microservices using Spring Boot.
-  - Practiced TDD and collaborated in an Agile environment.
+- **CVS Health** *(Sep 2021 – May 2022)*  
+  - Developed and maintained RESTful APIs and microservices using **Java Spring Boot** and **Node.js**.  
+  - Deployed cloud-native applications on **AWS**, utilizing EC2, S3, and Lambda for reliability and scalability.  
+  - Migrated legacy systems to modern microservices architecture, improving maintainability and scalability.  
+  - Mentored junior developers, fostering technical growth and improving team productivity.  
 
-- **Maharishi International University**
-  - Served as a Teaching Assistant, instructing courses in Software Engineering and Web Application Programming.
-  - Passionate about mentoring and knowledge sharing.
+- **Maharishi International University** *(Feb 2021 – Aug 2021)*  
+  - Served as a **Teaching Assistant**, instructing courses in Software Engineering and Web Application Programming.  
+  - Provided one-on-one mentoring and guidance to students on programming best practices and debugging techniques.  
 
 ---
 
@@ -47,7 +51,7 @@ Worked in diverse environments across the **United States**, **Morocco**, **Braz
 
 ### 📫 **Contact Me**
 
-- **Email:** [lachhabayouub@gmail.com](mailto:lachhabayouub@gmail.com)
+- **Email:** [lachhabayouub@gmail.com](mailto:lachhabayouub@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/lachhabayoub](https://www.linkedin.com/in/lachhabayoub/)
 
 ---
