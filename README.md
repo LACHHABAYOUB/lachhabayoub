@@ -1,12 +1,11 @@
+
 <h1 align="center">Ayoub LACHHAB</h1>
 
 <h3 align="center">Senior Software Engineer | Full-Stack Developer</h3>
 
-
 <p align="center">
   <strong>
  I am a Senior Software Engineer with over 5 years of experience in full-stack development, specializing in designing and implementing high-performance, scalable software solutions that enhance user experience and operational efficiency.
-efficiency.
   </strong>
 </p>
 
@@ -52,4 +51,3 @@ Worked in diverse environments across the **United States**, **Morocco**, **Braz
 - **LinkedIn:** [linkedin.com/in/lachhabayoub](https://www.linkedin.com/in/lachhabayoub/)
 
 ---
-
