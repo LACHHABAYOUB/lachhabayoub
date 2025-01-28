@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>
- I am a Senior Software Engineer with over 5 years of experience in full-stack development, specializing in designing and implementing high-performance, scalable software solutions that enhance user experience and operational efficiency.
+ I'm a Senior Software Engineer with 5+ years of experience crafting high-performance solutions across web, mobile, and enterprise applications.
   </strong>
 </p>
 
@@ -13,29 +13,37 @@
 
 ### 🚀 **Technical Expertise**
 
-- **Front-End Development:** React.js, Next.js, Angular, Ionic, JavaScript, TypeScript, HTML5, CSS3
-- **Back-End Development:** Node.js, Java, Spring Boot, Quarkus, Microservices Architecture, RESTful APIs
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Azure
-- **DevOps & Tools:** Docker, Kubernetes, Jenkins, Git, GitHub, GitLab CI/CD, Maven, Gradle
-- **Databases:** MySQL, Oracle, NoSQL Databases
-- **Testing & Methodologies:** Test-Driven Development (TDD), JUnit, Agile Methodologies, Scrum
+- **Web Technologies:** HTML/CSS, React, Angular, HTMX, TypeScript
+- **Frameworks:** Spring Boot, Express, QUARKUS, .NET
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
+- **Cloud Platforms:** AWS, Google Cloud Platform, Azure
+- **DevOps:** Docker, Kubernetes, Jenkins, Git, Terraform
+- **Mobile Development:** Ionic, Flutter
+- **Methodologies:** Agile (Scrum), Test-Driven Development
+- **Tools:** IntelliJ IDEA, Vs Code, Postman
+
 
 ---
 
 ### 💼 **Professional Highlights**
 
 - **The Home Depot** *(Mar 2023 – Present)*
-  - Leading full-stack development efforts on critical applications.
-  - Designed and implemented a system to track and verify software versions across all Home Depot stores, reducing deployment times by 40%.
-  - Optimized applications for performance and user experience using **HTMX** and **Quarkus**.
-  - Developed scalable backend services with **Java**, **Spring Boot**, and **Kafka**, improving event-driven communication.
-  - Built and maintained CI/CD pipelines using **Jenkins**, **Docker**, and **Kubernetes**, reducing deployment times by 30%.
+- Built and maintained web applications using React and Angular, focusing on performance optimization and scalability.
+- Architected backend services with Java and Spring Boot, implementing Kafka to enable more responsive, event-driven communication between systems.
+- Launched a mentorship program that shortened new team member onboarding by two weeks and decreased initial implementation errors by 30%.
+- Addressed persistent deployment bottlenecks by creating a custom tracking system that cut deployment times for our customer portal by nearly half (40% reduction).
+- Dramatically improved code quality by pushing test coverage to 95%, significantly reducing production-related issues.
+- Managed cloud infrastructure on Google Cloud Platform, utilizing Kubernetes for seamless deployments and Big Query for deeper data insights.
+- Used Terraform to automate infrastructure setup across dev and prod environments.
 
-- **CVS Health** *(Sep 2021 – May 2022)*  
-  - Developed and maintained RESTful APIs and microservices using **Java Spring Boot** and **Node.js**.  
-  - Deployed cloud-native applications on **AWS**, utilizing EC2, S3, and Lambda for reliability and scalability.  
-  - Migrated legacy systems to modern microservices architecture, improving maintainability and scalability.  
-  - Mentored junior developers, fostering technical growth and improving team productivity.  
+- **CVS Health** *(Sep 2021 – May 2022)*
+- Architected scalable backend systems using Java Spring Boot and Node.js, developing robust RESTful APIs that improved system performance and reliability.
+- Developed robust full-stack applications using React, Angular, and Spring Boot, implementing Test-Driven Development (TDD) with JUnit to create high-quality, low-bug software solutions.
+- Leveraged AWS cloud services (EC2, S3, Lambda) to design resilient, cloud-native applications that maintained high availability for mission-critical systems.
+- Automated software delivery by implementing sophisticated CI/CD pipelines with Jenkins, Docker, and Kubernetes, streamlining our development workflow.
+- Designed and managed complex CI/CD workflows using Jenkins, Docker, and Kubernetes, automating software build, test, and deployment processes for seamless integration.
+- Spearheaded microservices transformation, breaking down monolithic architectures.
+
 
 - **Maharishi International University** *(Feb 2021 – Aug 2021)*  
   - Served as a **Teaching Assistant**, instructing courses in Software Engineering and Web Application Programming.  
