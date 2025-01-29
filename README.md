@@ -25,7 +25,7 @@
 
 ### 🏢 **Professional Experience**
 
-#### The Home Depot (Mar 2023 – Present)
+#### The Home Depot (May 2022 – Present)
 - Designed, developed, and maintained mobile applications using **Flutter** and **React Native**, delivering efficient, high-quality solutions.
 - Built and maintained web applications using **React** and **Angular**, focusing on performance optimization and scalability.
 - Architected backend services with **Java** and **Spring Boot**, implementing **Kafka** for responsive, event-driven communication.
