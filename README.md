@@ -61,17 +61,6 @@
 
 ---
 
-### 🛠️ **Key Skills**
-- **Programming Languages:** Java, JavaScript, Python, C++, Kotlin
-- **Web Technologies:** React, Angular, HTML/CSS, TypeScript
-- **Frameworks:** Spring Boot, Express, .NET, Quarkus
-- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Azure
-- **DevOps Tools:** Kubernetes, Docker, Jenkins, Terraform, Git
-- **Mobile Development:** Flutter, React Native, Ionic
-- **Methodologies:** Agile (Scrum), Test-Driven Development (TDD)
-
----
 
 ### 🌐 **Global Experience**
 Worked across the **United States**, **Morocco**, **Brazil**, and **Malaysia**, adapting to various work cultures and practices. Proven ability to collaborate effectively in remote and on-site settings.
