@@ -81,5 +81,4 @@ Worked across the **United States**, **Morocco**, **Brazil**, and **Malaysia**, 
 ### 📫 **Contact Me**
 - **Email:** [lachhabayouub@gmail.com](mailto:lachhabayouub@gmail.com)
 - **LinkedIn:** [linkedin.com/in/lachhabayoub](https://www.linkedin.com/in/lachhabayouub/)
-- 
 ---
