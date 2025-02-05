@@ -1,10 +1,10 @@
 <h1 align="center">Ayoub LACHHAB</h1>
 
-<h3 align="center">Senior Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Staff Software Engineer </h3>
 
 <p align="center">
   <strong>
-    I'm a Senior Software Engineer with 11+ years of experience crafting high-performance solutions across web, mobile, and enterprise applications.
+    I'm a Staff Software Engineer with 11+ years of experience crafting high-performance solutions across web, mobile, and enterprise applications.
   </strong>
 </p>
 
