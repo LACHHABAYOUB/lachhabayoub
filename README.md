@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    I'm a Senior Software Engineer with 5+ years of experience crafting high-performance solutions across web, mobile, and enterprise applications.
+    I'm a Senior Software Engineer with 11+ years of experience crafting high-performance solutions across web, mobile, and enterprise applications.
   </strong>
 </p>
 
