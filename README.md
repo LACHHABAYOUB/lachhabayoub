@@ -63,6 +63,18 @@ I'm a Staff Software Engineer with 11+ years of experience crafting high-perform
 - Built full-stack web apps connecting **Angular** front-end with **.NET** back-end.
 - Implemented **RESTful API** architectures.
 
+### Reselec (Oct 2015 – Jun 2017)
+- Developed and tested mobile applications for **Android**, ensuring seamless user experience.
+- Integrated **RESTful APIs** for real-time data synchronization.
+
+### Chital (Jan 2015 – Oct 2015)
+- Developed UI components using **JSP, JavaScript, and HTML**.
+- Ensured performance tuning, usability, and automation of applications.
+
+### Vasco (Sep 2013 – Jan 2015)
+- Built enterprise applications using **Java JEE, Servlets, JSP, and EJB**.
+- Developed responsive UIs with **HTML, CSS, and Bootstrap**.
+
 ---
 
 ## 🌐 Global Experience
