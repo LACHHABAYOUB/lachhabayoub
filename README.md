@@ -1,19 +1,19 @@
 # Ayoub Lachhab
 
-Senior Software Engineer with 8+ years of experience designing, building, and owning scalable backend systems and cloud-native applications used in production.
+Senior Software Engineer with 8+ years of experience designing, building, **operating**, and owning scalable backend systems and cloud-native applications in production environments.
 
-I specialize in backend engineering with **Java and Spring Boot**, focusing on clean architecture, microservices, and event-driven systems. I have delivered and operated production systems serving real users across **retail, healthcare, and enterprise platforms**, working in distributed, international teams.
+I specialize in backend engineering with **Java and Spring Boot**, focusing on clean architecture, microservices, and **event-driven systems**. I have delivered and operated production systems serving real users across **retail, healthcare, and enterprise platforms**, working in distributed, international teams.
 
 ---
 
 ## 🚀 What I Do
 - Design and implement scalable backend services and REST / GraphQL APIs
-- Build cloud-native microservices using **Spring Boot, Docker, and Kubernetes**
 - Design **event-driven architectures** using Kafka
-- Deploy and operate production systems on **AWS and Google Cloud Platform (GCP)**
+- Build cloud-native microservices using **Spring Boot, Docker, and Kubernetes**
+- Deploy, monitor, and operate production systems on **AWS and Google Cloud Platform (GCP)**
 - Improve CI/CD pipelines, system reliability, and developer productivity
-- Apply **TDD / BDD** practices to ensure long-term maintainability and quality
-- Mentor engineers and contribute to technical standards and onboarding
+- Apply **TDD / BDD** practices to ensure long-term maintainability and code quality
+- Mentor engineers and contribute to technical standards, code reviews, and onboarding
 
 ---
 
@@ -63,7 +63,7 @@ Worked across:
 - Brazil
 - Malaysia
 
-Comfortable collaborating in **international, distributed teams** and adapting to different engineering cultures.
+Comfortable collaborating in **international, distributed teams**, owning systems end-to-end, and adapting to different engineering cultures.
 
 ---
 
